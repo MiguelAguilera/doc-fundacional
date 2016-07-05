@@ -34,19 +34,3 @@ Los paquetes no son automáticamente aceptados, sino que pasan por  un proceso d
 
 * Comite técnico / Consejo técnico. Será un grupo de personas que  impulsan y se responsabilizan del proceso de revisión y mantenimiento  de los paquetes. Este grupo toma la decisión final sobre la aceptación  de un paquete, aunque esta decisión estará sometida a la supervisión del  resto de la red. Los criterios técnicos empleados en el proceso de  decisión serán públicos y transparentes en todo momento.
 * Proceso de revisión de pares. El proceso de decisión para la  validación de un paquete estará sometido a un proceso público de  revisión por pares.
-
-### Herramientas y contenidos para subir a Demoteca
-
-* Xnet: https://xnet-x.net/ -  Democracia en red y tecnopolítica. Información, cultura e internet libres. Hacktivismo anticorrupción.
-* Osoigo.com: https://www.osoigo.com/ - El portal de los políticos que escuchan.
-* Kuorum: https://kuorum.org/ - Conecta, comunícate y comparte con políticos sobre temas que te importan.
-* Poletika: http://coordinadoraongd.org/2015/06/presentacion-de-poletika-org-una-herramienta-de-vigilancia-de-los-compromisos-politicos-y-programas-electorales/ - Una herramienta de presión política y de información ciudadana para mejorar la calidad democrática y luchar contra la desigualdad.
-* Fíltrala: https://filtrala.org/ - Fíltrala es parte de la red internacional de la Associated Whistleblowing Press (AWP) y sirve para difundir alertas y denuncias periodísticas.
-* Apps4citizens: http://apps4citizens.org/ - Aplicaciones de móviles para el compromiso social y político colectivo
-* Goteo: https://www.goteo.org/ - Plataforma de crowdfunding cívico y colaboración en torno a iniciativas ciudadanas, proyectos sociales, culturales, tecnológicos y educativos. Fundación.
-* Auténtika: http://www.autentika.es/ - Auténtika es un juego ONLIVE (online y presencial) para combinar metodologías artísticas y lúdicas con dinámicas económicas y sociales.
-* Güifinet: https://guifi.net/es - Red de telecomunicaciones libre, abierta y neutral, mayoritariamente inalámbrica, con más de 32.900 nodos
-* Smart Citizens: https://smartcitizen.me/ - Tecnología de código abierto para ciudadanos y para la participación política (en inglés).
-* Nabú: http://nabu.cooperativa.cat/default.htm - Herramienta web que facilita y acelera el método asambleario para mejorar la toma de decisiones en grandes grupos cooperativos. Software libre.
-* Open Seneca: http://www.openseneca.com/ - Interfaz social de participación ciudadana (en inglés)
-
